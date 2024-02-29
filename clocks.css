@@ -30,7 +30,7 @@ nav ul li{
     margin: 10px;
 }
 nav ul li a{
-    text-decoration: none;
+    text-decoration: underline;
     color: rrgb(101, 101, 235);
 
 }
