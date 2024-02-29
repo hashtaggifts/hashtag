@@ -1,11 +1,12 @@
-*{
+*{ height: 100vh;
+    width: 100%;
     margin:0;
     padding:0;
     background:rgb(7, 0, 0) ;
 }
 .hero{
-    height: 100%;
-    width: 100vh;
+    height: 100vh;
+    width: 100%;
     background:rgb(7, 0, 0) ;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     position: absolute;
