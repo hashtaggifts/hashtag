@@ -89,7 +89,7 @@ nav ul li a:hover{
     background:rgb(7, 0, 0) ;
 }
 .pics img
-{background:rgb(7, 0, 0) ;
+{background-color:rgb(7, 0, 0) ;
     width: 200px;
     height: 200px;
 }
