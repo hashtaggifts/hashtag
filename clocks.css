@@ -3,7 +3,7 @@
     padding:0;
 }
 .hero{
-    height: 100vh;
+    height: 100%;
     width: 100vh;
     background:rgb(7, 0, 0) ;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -41,7 +41,7 @@ nav ul li a:hover{
 }
 .hero h1
 {
-    color:skyblue;
+  color: whitesmoke;
     text-decoration:underline;
 }
 .hero nav h2
